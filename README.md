@@ -10,9 +10,6 @@ Este proyecto es una implementación del clásico juego Pong utilizando Unity. P
 
 - **Multijugador local**: Dos jugadores pueden competir de forma local controlando cada uno una paleta.
 - **IA para un jugador**: Juega contra una IA con diferentes niveles de dificultad.
-- **Sonidos de rebote**: Efectos de sonido cada vez que la pelota rebota en una paleta o en las paredes.
-- **Pausa y reanudación**: El juego se puede pausar y reanudar fácilmente.
-- **Interfaz intuitiva**: Controles simples y fáciles de usar.
 
 ## Controles
 
@@ -27,7 +24,7 @@ Este proyecto es una implementación del clásico juego Pong utilizando Unity. P
 
 ## Enlace al juego
 
-Puedes jugar a la versión en línea del juego aquí: Pong Game
+Puedes jugar a la versión en línea del juego aquí: [Pong](https://facusb.github.io/Pong/)
 
 
 ![Captura de Pantalla del Juego](PongGame.png)
